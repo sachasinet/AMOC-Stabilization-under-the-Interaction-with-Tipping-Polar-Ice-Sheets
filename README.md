@@ -1,1 +1,1 @@
-# Sinet_et_al-GRL2022
+# Sinet_et_al
